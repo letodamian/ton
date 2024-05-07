@@ -1,0 +1,1 @@
+Ton smart contracts and their integration... Will point out details if I will have time.
